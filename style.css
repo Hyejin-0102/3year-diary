@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.yearRecord {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-top: 5px;
+}
+
+.icon {
+    margin-left: 10px;
+    color: #f39c12; /* 연필 아이콘 색상 */
+    font-size: 20px; /* 아이콘 크기 */
+}
+
+button {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+#datePicker {
+    font-size: 24px; /* 캘린더 크기 조정 */
+    padding: 10px;
+    width: 100%;
+}
